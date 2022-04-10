@@ -1,0 +1,8 @@
+#getaccsesip
+159.223.74.94 (accept)
+129.121.23.11 (accept)
+
+# Getting
+MYIP=$(wget -qO- ipinfo.io/ip);
+echo "Checking VPS"
+IZIN=$(wget -qO- ipinfo.io/ip);

@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/WaanStore/AutoUp/Slowdns/main/install; chmod +x install; ./install
